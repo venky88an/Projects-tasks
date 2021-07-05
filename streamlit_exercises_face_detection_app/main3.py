@@ -143,9 +143,6 @@ def main():
 				result_canny = cannize_image(our_image)
 				st.image(result_canny)
 
-
-
-
 	
 
 
