@@ -1,0 +1,14 @@
+
+Optical Character Recognition (to extract text from images).
+
+
+
+Python Libraries used for doing extraction of text from images:
+# streamlit
+# easyocr
+# Numpy
+# Pillow 
+
+Command for execution:
+
+streamlit run streamlit_ocr.py
