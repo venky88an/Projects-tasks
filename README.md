@@ -2,7 +2,7 @@
 
 ### Machine Learning and Deep Learning Experiments using Python 
 
-### Libraries used mostly: Tensorflow, Pytorch, Pandas, Scikit learn, Matplotlib, OpenCV & NumPy
+### Libraries used mostly: Tensorflow, Pytorch, Pandas, Scikit learn, Matplotlib, Spacy & nltk, Transformers, OpenCV & NumPy
 
 [Sentiment analysis and intent classification using BERT](https://github.com/venky88an/Projects-tasks/tree/main/BERT_NLP_tasks)
 
