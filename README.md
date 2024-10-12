@@ -32,5 +32,8 @@ Technology: Face and Hand gesture Tracking.
 
 Technology: TFIDF, Word embeddings, LSTM-Neural Networks, Named Entity Recognition, Text Classification, Topic Modeling and Text Summarization
 
-[Pyspark experiments](https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_exercises_databricks), (https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_tasks)
+## Pyspark experiments
+
+- [Pyspark exercises](https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_exercises_databricks)
+- [Pyspark tasks](https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_tasks)
 
