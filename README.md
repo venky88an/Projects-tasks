@@ -40,11 +40,11 @@ Technology: TFIDF, Word embeddings, LSTM-Neural Networks, Named Entity Recogniti
 ### Optical Character Recognition experiments (using tesserOCR, easyOCR & PaddleOCR)
 
 - [OCR exercises1](https://github.com/venky88an/Projects-tasks/tree/main/OCR(image_to_text_tasks))
-- [OCR exercise2](https://github.com/venky88an/Projects-tasks/tree/main/Optical_character_recognition_tasks)
+- [OCR exercises2](https://github.com/venky88an/Projects-tasks/tree/main/Optical_character_recognition_tasks)
 
 ### Recommendation systems
 
 [KNN based Recommendation Systems ](https://github.com/venky88an/Projects-tasks/tree/main/Recommendation%20systems)
 
-#### Important note: State of the art involves Vector or Semantic search 
+#### Important note: State-of-the-art involves Vector/semantic/hybrid search 
 
