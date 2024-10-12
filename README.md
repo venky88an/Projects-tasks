@@ -35,7 +35,7 @@ Skills: TFIDF, Word embeddings, LSTM-Neural Networks, Named Entity Recognition, 
 ### Pyspark experiments
 
 - [Pyspark exercises1](https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_exercises_databricks)
-- [Pyspark exercises2(https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_tasks)
+- [Pyspark exercises2](https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_tasks)
   
 ### Optical Character Recognition experiments (using tesserOCR, easyOCR & PaddleOCR)
 
