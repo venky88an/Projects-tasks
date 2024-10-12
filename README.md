@@ -30,5 +30,5 @@ Technology: Face and Hand gesture Tracking.
 
 [NLP assisted insights handling ](https://github.com/venky88an/Projects-tasks/tree/main/NLP_tasks)
 
-Technology: TFIDF, Word embeddings, LSTM-Neural Networks, Named Entity Recognition, Text Classification
+Technology: TFIDF, Word embeddings, LSTM-Neural Networks, Named Entity Recognition, Text Classification, Topic Modeling and Text Summarization
 
