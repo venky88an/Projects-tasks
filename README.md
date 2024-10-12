@@ -32,8 +32,19 @@ Technology: Face and Hand gesture Tracking.
 
 Technology: TFIDF, Word embeddings, LSTM-Neural Networks, Named Entity Recognition, Text Classification, Topic Modeling and Text Summarization
 
-## Pyspark experiments
+### Pyspark experiments
 
 - [Pyspark exercises](https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_exercises_databricks)
 - [Pyspark tasks](https://github.com/venky88an/Projects-tasks/tree/main/Pyspark_tasks)
+- 
+### Optical Character Recognition experiments (using tesserOCR, easyOCR & PaddleOCR)
+
+- [OCR exercises1](https://github.com/venky88an/Projects-tasks/tree/main/OCR(image_to_text_tasks))
+- [OCR exercise2](https://github.com/venky88an/Projects-tasks/tree/main/Optical_character_recognition_tasks)
+
+### Recommendation systems
+
+[KNN based Recommendation Systems ](https://github.com/venky88an/Projects-tasks/tree/main/Recommendation%20systems)
+
+#### Important note: State of the art involves Vector or Semantic search 
 
