@@ -1,6 +1,6 @@
 # Data-Science-Experiments-and-Deployment
 
-### Machine Learning and Deep Learning using Python 
+### Machine Learning and Deep Learning Experiments using Python 
 
 ### Libraries used mostly: Tensorflow, Pytorch, Pandas, Scikit learn, Matplotlib, OpenCV & NumPy
 
