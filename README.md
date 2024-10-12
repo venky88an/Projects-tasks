@@ -46,5 +46,5 @@ Technology: TFIDF, Word embeddings, LSTM-Neural Networks, Named Entity Recogniti
 
 [KNN based Recommendation Systems ](https://github.com/venky88an/Projects-tasks/tree/main/Recommendation%20systems)
 
-#### Important note: State-of-the-art involves Vector/semantic/hybrid search 
+#### Important note: State-of-the-art involves Vector/semantic/hybrid search for constructing recommendation system
 
