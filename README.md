@@ -20,7 +20,7 @@ Technology: Optical Character Recognition, Object Recognition, Image Segmentatio
 
 Technology: Docker commands.
 
-[Flask & FASTAPI server enable RESTAPI experiments](https://github.com/venky88an/Projects-tasks/tree/main/Flask_integrated_image_classification_model)
+[Flask & FAST API server enable RESTAPI experiments](https://github.com/venky88an/Projects-tasks/tree/main/Flask_integrated_image_classification_model)
 
 Technology: RESTAPI calls, Postman.
 
